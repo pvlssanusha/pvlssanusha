@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm P.V.L.S.S.ANUSHA</h1>
-<h3 align="center">A passionate Android and Frontend developer from India</h3>
+<h3 align="center">A passionate Android and frontend developer from India</h3>
 <img align="right" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&hl=en-US&chips=q:animated+coding+gif,g_1:girl:qp241mkqO-o%3D&rlz=1C1VDKB_enIN952IN952&sa=X&ved=2ahUKEwjcwY68iZ_9AhWh2nMBHSriBeMQ3VYoAHoECAEQJQ&biw=1394&bih=678">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvlssanusha&label=Profile%20views&color=0e75b6&style=flat" alt="pvlssanusha" /> </p>
 
@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/httpsperla-venkata-laxmi-subha-satya-anusha-a36234206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httpsperla-venkata-laxmi-subha-satya-anusha-a36234206/" height="30" width="40" /></a>
-<a href="https://instagram.com/anu-perla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu-perla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/perla venkata laxmi subha satya anusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="perla venkata laxmi subha satya anusha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/perla-venkata-laxmi-subha-satya-anusha-a36234206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perla-venkata-laxmi-subha-satya-anusha-a36234206/" height="30" width="40" /></a>
+<a href="https://instagram.com/anupe_rla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupe_rla" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@anushaperla2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anushaperla2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
