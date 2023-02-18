@@ -5,8 +5,7 @@
 <img align="right" width="300"  height="250"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&usqp=CAU" alt="image">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
+- 🌱 I’m Computer Science Student At JNTU-GV .Very Passionate about Technology🤖🤖
 - 👯 I’m looking to collaborate on **machine learning projects**
 
 - 🤝 I’m looking for help with **any new interesting projects**
