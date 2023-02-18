@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm P.V.L.S.S.ANUSHA</h1>
 <h3 align="center">A passionate Android and frontend developer from India</h3>
-<img align="right" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&hl=en-US&chips=q:animated+coding+gif,g_1:girl:qp241mkqO-o%3D&rlz=1C1VDKB_enIN952IN952&sa=X&ved=2ahUKEwjcwY68iZ_9AhWh2nMBHSriBeMQ3VYoAHoECAEQJQ&biw=1394&bih=678">
+<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&usqp=CAU" alt="image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvlssanusha&label=Profile%20views&color=0e75b6&style=flat" alt="pvlssanusha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
